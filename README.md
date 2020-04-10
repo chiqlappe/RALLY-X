@@ -17,7 +17,7 @@
 
 ## 手順
 * PC-8001にゲームをロードする  
-* パッチプログラム _patch.cmt_ をモニタからロードし、G9B00を実行する
+* パッチプログラム `patch.cmt` をモニタからロードし、`G9B00` を実行する
 
 ## アセンブルについて
 * PC-8001エミュレータj80付属のtools80でアセンブル可能です  
@@ -26,9 +26,9 @@
  3.  `bgm.bin` BGM・効果音データ
 
 ## サウンドドライバについて
-* @bugfire01さんが作成されたサウンドドライバとBGMパッチを使用しています
-[PC-8001を懐かしむページ](https://bugfire2009.ojaru.jp/bgm.html)  
-[@bugfire01](https://twitter.com/bugfire01)  
+* @bugfire01さんが作成されたサウンドドライバとBGMパッチを使用しています  
+  [PC-8001を懐かしむページ](https://bugfire2009.ojaru.jp/bgm.html)  
+  [@bugfire01](https://twitter.com/bugfire01)  
 
 ## チートコマンド
 * ゲームスタート時に"0"~"F"キーのいずれかを押し続けるとラウンドセレクトできます 
