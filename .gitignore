@@ -1,2 +1,2 @@
-patch.asm.log.asz
-loader.asm.log.asz
+*.log.asz
+.DS_Store
