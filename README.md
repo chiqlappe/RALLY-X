@@ -1,5 +1,3 @@
-# RALLY-X
-PC-8001 ラリーX用パッチ  
 # PC-8001 NEW RALLY-X用パッチ
 
 ## 目的
