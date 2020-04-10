@@ -1,0 +1,8 @@
+
+
+	ORG	0EA68H
+
+	DB	01H
+	DS	57H,00H
+	DB	"L",0DH,"L",0DH,"G9B00",0DH
+	DB	00H
