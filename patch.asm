@@ -883,6 +883,18 @@ CHEAT:
 .L4:	LD	(MYCAR),A	;マイカー数<-A
 
 	LD	HL,ROUND
+	LD	A,(HL)
+	AND	A
+	JR	Z,.RA_F
+
+	LD	C,A
+	IN	A,(01H)
+	AND	%10000001	;"8"とリターンキーが押されていたらラウンド数を初期化しない（コンティニュー処理）
+	JR	NZ,.RA_F
+	DEC	C
+	LD	(HL),C
+	RET
+
 .RA_F	IN	A,(02H)
 	CPL
 	AND	%01111110	;"F"~"A"キーを検索
