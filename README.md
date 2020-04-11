@@ -26,7 +26,7 @@
 ## アセンブルについて
 * PC-8001エミュレータj80付属のtools80でアセンブル可能です  
  1.  `patch.asm` パッチ本体
- 2.  `sound_driver.bin` サウンドドライバー
+ 2.  `sound_driver.bin` サウンドドライバ
  3.  `bgm.bin` BGM・効果音データ
 
 ## サウンドドライバについて
