@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-18T02:44:21.662Z" agent="5.0 (Macintosh)" etag="mjIZ3XYMjHBQdurZnkNk" version="12.9.14" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-18T02:54:19.759Z" agent="5.0 (Macintosh)" etag="22vMepxR3IEv-BCoSeF_" version="12.9.14" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1603" dy="1520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1696,6 +1696,9 @@
         <mxCell id="kZs2vMbf8O2eaN0qB7Vc-491" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;gradientColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="5030" y="1940" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="kZs2vMbf8O2eaN0qB7Vc-521" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kZs2vMbf8O2eaN0qB7Vc-493" target="kZs2vMbf8O2eaN0qB7Vc-500">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kZs2vMbf8O2eaN0qB7Vc-493" value="レッド・カーの表示を更新する" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;gradientColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="4720" y="2910" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1706,6 +1709,61 @@
         </mxCell>
         <mxCell id="kZs2vMbf8O2eaN0qB7Vc-495" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;gradientColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="4960" y="2900" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kZs2vMbf8O2eaN0qB7Vc-503" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kZs2vMbf8O2eaN0qB7Vc-500" target="kZs2vMbf8O2eaN0qB7Vc-502">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kZs2vMbf8O2eaN0qB7Vc-500" value="煙幕判定" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;gradientColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="4720" y="3000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kZs2vMbf8O2eaN0qB7Vc-506" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kZs2vMbf8O2eaN0qB7Vc-502" target="kZs2vMbf8O2eaN0qB7Vc-505">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kZs2vMbf8O2eaN0qB7Vc-502" value="(RCHR)←(RWCHR)" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="4720" y="3090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kZs2vMbf8O2eaN0qB7Vc-512" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kZs2vMbf8O2eaN0qB7Vc-505" target="kZs2vMbf8O2eaN0qB7Vc-507">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kZs2vMbf8O2eaN0qB7Vc-505" value="レーダーと仮想画面を更新する" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;gradientColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="4720" y="3180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kZs2vMbf8O2eaN0qB7Vc-513" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kZs2vMbf8O2eaN0qB7Vc-507" target="kZs2vMbf8O2eaN0qB7Vc-508">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kZs2vMbf8O2eaN0qB7Vc-507" value="変数を配列に書き戻す" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;gradientColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="4720" y="3270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kZs2vMbf8O2eaN0qB7Vc-511" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kZs2vMbf8O2eaN0qB7Vc-508" target="kZs2vMbf8O2eaN0qB7Vc-509">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4920" y="3390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kZs2vMbf8O2eaN0qB7Vc-516" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kZs2vMbf8O2eaN0qB7Vc-508" target="kZs2vMbf8O2eaN0qB7Vc-514">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kZs2vMbf8O2eaN0qB7Vc-508" value="マイカーとの衝突判定" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;gradientColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="4720" y="3360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kZs2vMbf8O2eaN0qB7Vc-509" value="CRASH" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="4940" y="3370" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kZs2vMbf8O2eaN0qB7Vc-517" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kZs2vMbf8O2eaN0qB7Vc-514" target="kZs2vMbf8O2eaN0qB7Vc-515">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kZs2vMbf8O2eaN0qB7Vc-514" value="&lt;div&gt;POP AF&lt;/div&gt;&lt;div&gt;A--&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="4720" y="3450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kZs2vMbf8O2eaN0qB7Vc-520" value="YES" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kZs2vMbf8O2eaN0qB7Vc-515" target="kZs2vMbf8O2eaN0qB7Vc-518">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4780" y="3690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kZs2vMbf8O2eaN0qB7Vc-515" value="A=0" style="rhombus;whiteSpace=wrap;html=1;rounded=0;gradientColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="4705" y="3540" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kZs2vMbf8O2eaN0qB7Vc-518" value="SMOKE" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="4720" y="3640" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
