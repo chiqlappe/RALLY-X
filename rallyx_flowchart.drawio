@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-04-17T14:12:47.659Z" agent="5.0 (Macintosh)" etag="1aYgePtPdE2TNFLxiG1-" version="12.9.14" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-18T00:02:33.835Z" agent="5.0 (Macintosh)" etag="genn_32j1pPz30LxOrQR" version="12.9.14" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="3654" dy="2070" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3768" dy="2640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -214,7 +214,7 @@
         <mxCell id="nqtLHEjrHN-lKsNGVXzO-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nqtLHEjrHN-lKsNGVXzO-87" target="nqtLHEjrHN-lKsNGVXzO-65" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nqtLHEjrHN-lKsNGVXzO-87" value="スクロール" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="nqtLHEjrHN-lKsNGVXzO-87" value="SCROLL" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="270" y="590" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nqtLHEjrHN-lKsNGVXzO-93" value="マップオブジェクト出力" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
