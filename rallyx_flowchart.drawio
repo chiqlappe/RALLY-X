@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-04-18T12:37:10.381Z" agent="5.0 (Macintosh)" etag="gEpSW1Z27czgbclGzR_Z" version="12.9.14" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-18T12:38:56.108Z" agent="5.0 (Macintosh)" etag="VEP2D7Z3H-aVKC79UTmc" version="12.9.14" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2229" dy="1520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2572" dy="1893" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -2392,16 +2392,16 @@
           <mxGeometry x="-440" y="430" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="kZs2vMbf8O2eaN0qB7Vc-815" value="左移動" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-1040" y="210" width="80" height="20" as="geometry" />
+          <mxGeometry x="-805" y="-90" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="kZs2vMbf8O2eaN0qB7Vc-816" value="上移動" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-890" y="210" width="80" height="20" as="geometry" />
+          <mxGeometry x="-795" y="15" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="kZs2vMbf8O2eaN0qB7Vc-817" value="下移動" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-740" y="210" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="kZs2vMbf8O2eaN0qB7Vc-818" value="右移動" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-590" y="210" width="80" height="20" as="geometry" />
+          <mxGeometry x="-590" y="130" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="kZs2vMbf8O2eaN0qB7Vc-819" value="仮想画面座標をアドレスに変換" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-645" y="610" width="175" height="20" as="geometry" />
